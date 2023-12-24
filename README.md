@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PRATHAMTALUKDAR
 - 👀 I’m interested in Computer Science 
 - 🌱 I’m currently learning PYTHON 
-- 💞️ I’m looking to collaborate on any topic which you think I can do
+- 💞️ I’m looking to collaborate on any topic
 - 📫 How to reach me - pratham007talukdar@gmail.com
 
 <!---
