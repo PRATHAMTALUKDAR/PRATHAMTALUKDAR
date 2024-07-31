@@ -3,8 +3,8 @@
 I just know one thing
 
 ```python
-    while True:
-        eat()
-        code()
-        sleep()
+while True:
+    eat()
+    code()
+    sleep()
 ```
