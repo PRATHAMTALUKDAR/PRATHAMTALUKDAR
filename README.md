@@ -1,4 +1,4 @@
-# Hey , **PRATHAM TALUKDAR** here
+# Hey, **PRATHAM TALUKDAR** here
 
 I just know one thing
 
