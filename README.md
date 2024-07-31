@@ -1,3 +1,10 @@
 # Hey , **PRATHAM TALUKDAR** here
 
-## Currently I just know **Python**
+I just know one thing
+
+'''python
+    while True:
+        eat()
+        code()
+        sleep()
+'''
