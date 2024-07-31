@@ -2,9 +2,9 @@
 
 I just know one thing
 
-'''python
+```python
     while True:
         eat()
         code()
         sleep()
-'''
+```
