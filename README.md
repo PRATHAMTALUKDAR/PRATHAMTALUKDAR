@@ -1,5 +1,7 @@
 # Hey, **PRATHAM TALUKDAR** here
 
+<div align="center">
+    
 I just know one thing
 
 ```python
@@ -8,19 +10,13 @@ while True:
     code()
     sleep()
 ```
+🛠️ Tech Stack
+<img src="https://www.google.com/search?q=https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/%3Fusername%3DPRATHAMTALUKDAR%26layout%3Dpie%26theme%3Dgithub_dark%26hide_border%3Dtrue%26langs_count%3D8" alt="Top Languages" />
 
-<br> 
-<h2 align="center">Tech Stack</h2>
+📊 GitHub Stats
+<img src="https://www.google.com/search?q=https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api%3Fusername%3DPRATHAMTALUKDAR%26show_icons%3Dtrue%26theme%3Dgithub_dark%26hide_border%3Dtrue" alt="GitHub Stats" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRATHAMTALUKDAR&layout=pie&theme=github_dark&hide_border=true&cache_seconds=1800" />
-</p>
+<img src="https://www.google.com/search?q=https://streak-stats.demolab.com%3Fuser%3DPRATHAMTALUKDAR%26theme%3Dgithub-dark%26hide_border%3Dtrue" alt="GitHub Streak" />
 
-<br>
-<h2 align="center">📊 GitHub Stats</h2> 
-<p align="center">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PRATHAMTALUKDAR&show_icons=true&theme=github_dark&hide_border=true" /> 
-</p>
-<p align="center"> 
-    <img src="https://streak-stats.demolab.com?user=PRATHAMTALUKDAR&theme=github-dark&hide_border=true" /> 
-</p> ```
+📈 Activity Graph
+<img src="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3DPRATHAMTALUKDAR%26theme%3Dgithub-dark%26hide_border%3Dtrue%26area%3Dtrue" width="100%" />
