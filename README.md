@@ -12,7 +12,7 @@ while True:
 <h2 align="center">Tech Stack</h2>
 
 <p align="center">
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PRATHAMTALUKDAR&layout=pie&theme=tokyonight&cache_seconds=1800)
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=PRATHAMTALUKDAR&layout=pie&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">
