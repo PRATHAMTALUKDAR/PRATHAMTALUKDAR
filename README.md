@@ -10,4 +10,10 @@ while True:
     code()
     sleep()
 ```
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PRATHAMTALUKDAR&layout=pie&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" /></div>
+
+<div align="center">
+
+## Technical Skills
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PRATHAMTALUKDAR&theme=transparent&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+
+</div>
